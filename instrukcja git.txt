@@ -1,0 +1,12 @@
+Czyli wchodze do folderu jak juz dodałem do niego i tak
+
+ git add . && git commit -m "Zrobione do zadania domowego"
+
+ git branch -M main
+
+ git push -u origin main
+
+i nam sie dodaje jak nie mamy jeszcze repo to przed tym najpierw 
+git remote add origin https://github.com/grzegorzczy/dddddd.git
+
+to jest po git add.
